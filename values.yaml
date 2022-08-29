@@ -7,7 +7,7 @@ image:
   repository: alteredstorm/rsvp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "latest"
+  tag: "62527176c129463074806bf743cfd087b21b43a5"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
